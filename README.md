@@ -1,2 +1,2 @@
 # CTP-Puertas-del-Conocimiento
-Videogame RPG
+RPG Videogame
